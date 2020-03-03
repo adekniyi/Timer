@@ -1,0 +1,48 @@
+* {
+    margin: 0px;
+    padding: 0%
+}
+
+p {
+    font-size: 30px;
+    text-align: center;
+    border: 5px solid black;
+    width: 60%;
+    margin: 10% auto;
+}
+
+.button {
+    padding: 2px;
+    text-align: center;
+    margin:-6% auto;
+    display:block;
+    
+}
+
+button {
+    width: 18%;
+    cursor: pointer;
+    height: 60px;
+    font-weight: bold;
+}
+
+.btn3:hover {
+    background-color: red;
+    font-weight: bolder;
+    width: 18.5%;
+    border: 0px;
+}
+
+.btn2:hover {
+    background-color: gray;
+    font-weight: bolder;
+    width: 18.5%;
+    border: 0px;
+}
+
+.btn1:hover {
+    background-color: green;
+    font-weight: bolder;
+    width: 18.5%;
+    border: 0px;
+}
