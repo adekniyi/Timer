@@ -7,7 +7,7 @@
     margin-top: 230px;
     border: 5px solid rgb(112, 110, 110);
     height: 280px;
-    width: 350px;
+    width: 30rem;
     box-shadow: 10px 10px 15px 15px rgba(156, 151, 151,0.5);
 }
 .container:hover{
@@ -17,7 +17,7 @@
     padding-top: 30px;
     font-size: 40px;
     text-align: center;
-    width: 300px;
+    width: 28rem;
     margin: 10% auto;
 }
 
@@ -40,7 +40,7 @@ button {
     background-color: red;
     box-shadow: 1px 1px 5px 5px rgba(247, 104, 104, 0.5);
     font-weight: bolder;
-    width: 18.7%;
+    transform: scale(1.2);
     border: 4px;
 }
 
@@ -48,7 +48,7 @@ button {
     background-color: gray;
     box-shadow: 1px 1px 5px 5px rgba(184, 184, 184, 0.5);
     font-weight: bolder;
-    width: 18.7%;
+    transform: scale(1.2);
     border: 4px;
 }
 
@@ -56,6 +56,6 @@ button {
     background-color: green;
     box-shadow: 1px 1px 5px 5px rgba(161, 247, 104, 0.5);
     font-weight: bolder;
-    width: 18.7%;
+    transform: scale(1.2);
     border: 4px;
 }
